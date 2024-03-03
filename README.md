@@ -123,3 +123,14 @@ Explore this curated list of educational GitHub repositories to supercharge your
     - *Modern Robotics: Mechanics, Planning, and Control Code Library. Optimized for readability and educational purposes.*
 
 Feel the excitement of learning! Happy coding! 🚀
+
+---
+
+<div align="center">
+
+   ![repo size](https://img.shields.io/github/repo-size/gmpsankalpa/EduHub-The-Learning-Galaxy?label=Repo%20Size&style=for-the-badge&labelColor=black&color=20bf6b)
+   ![GitHub forks](https://img.shields.io/github/forks/gmpsankalpa/EduHub-The-Learning-Galaxy?&labelColor=black&color=0fb9b1&style=for-the-badge)
+   ![GitHub stars](https://img.shields.io/github/stars/gmpsankalpa/EduHub-The-Learning-Galaxy?&labelColor=black&color=f7b731&style=for-the-badge)
+   ![GitHub LastCommit](https://img.shields.io/github/last-commit/gmpsankalpa/EduHub-The-Learning-Galaxy?logo=github&labelColor=black&color=d1d8e0&style=for-the-badge)
+
+</div>
