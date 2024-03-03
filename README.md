@@ -3,13 +3,11 @@
 Explore this curated list of educational GitHub repositories to supercharge your learning journey! 📚✨
 
 1. **[Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)**
-   - [![Stars](https://img.shields.io/github/stars/kamranahmedse/developer-roadmap?color=brightgreen&style=flat-square)](https://github.com/kamranahmedse/developer-roadmap) ![Forks](https://img.shields.io/github/forks/kamranahmedse/developer-roadmap?style=flat-square) 
-   - ![View](https://img.shields.io/github/watchers/kamranahmedse/developer-roadmap?style=flat-square)
+   - [![Stars](https://img.shields.io/github/stars/kamranahmedse/developer-roadmap?color=brightgreen&style=flat-square)](https://github.com/kamranahmedse/developer-roadmap) ![Forks](https://img.shields.io/github/forks/kamranahmedse/developer-roadmap?style=flat-square) ![View](https://img.shields.io/github/watchers/kamranahmedse/developer-roadmap?style=flat-square)
    - *Interactive roadmaps, guides, and other educational content for developers.*
 
 2. **[Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)**
-   - [![Stars](https://img.shields.io/github/stars/mtdvio/every-programmer-should-know?color=brightgreen&style=flat-square)](https://github.com/mtdvio/every-programmer-should-know) ![Forks](https://img.shields.io/github/forks/mtdvio/every-programmer-should-know?style=flat-square) 
-   -![View](https://img.shields.io/github/watchers/mtdvio/every-programmer-should-know?style=flat-square)
+   - [![Stars](https://img.shields.io/github/stars/mtdvio/every-programmer-should-know?color=brightgreen&style=flat-square)](https://github.com/mtdvio/every-programmer-should-know) ![Forks](https://img.shields.io/github/forks/mtdvio/every-programmer-should-know?style=flat-square) ![View](https://img.shields.io/github/watchers/mtdvio/every-programmer-should-know?style=flat-square)
    - *A collection of must-know technical things for software developers.*
 
 3. **[C-Plus-Plus Algorithms](https://github.com/TheAlgorithms/C-Plus-Plus)**
